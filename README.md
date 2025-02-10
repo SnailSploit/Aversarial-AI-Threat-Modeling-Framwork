@@ -1,6 +1,6 @@
 # Ai-PT-F 
 
-## Adversarial Ai Penetration Testing Framework
+## Adversarial Ai Prompting Framework
 
 
 ### Overview
