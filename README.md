@@ -77,6 +77,22 @@ A comprehensive reference for adversarial techniques (TTPs) used to test, bypass
 
 The Adversarial AI Prompting Framework (Ai-PT-F) is a comprehensive resource outlining 50 techniques adversaries might use to manipulate AI systems. These techniques aim to bypass safety measures, leak restricted information, or elicit unintended responses.
 
+**Ai-PT-F Framework Overview**
+
+- Framework aims to systematically catalog AI system vulnerabilities and defense strategies, similar to MITRE ATT&CK in cybersecurity
+- Contains over 50 distinct tactics covering prompt injection, role hijacking, context leakage, and semantic infiltration
+- Employs a four-stage attack chain: Entry, Escalation, Pivot, and Payload delivery
+
+**Key Components**
+
+- Extensive tactic library covering prompt manipulation, context pollution, social engineering, and semantic misdirection
+- Techniques are rated by difficulty, success rate, and follow-up steps for optimal exploitation paths
+- Emphasizes multi-step infiltration over direct attacks, using progressive scenario building
+
+**Practical Impact**
+
+- Enables systematic testing of AI defenses while providing defenders with tools to identify and patch vulnerabilities
+
 ## Why Ai-PT-F?
 
 This framework serves as a guide for:
