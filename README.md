@@ -1,4 +1,4 @@
-# AATMF: Adversarial AI Threat ModelingFramework
+# AATMF: Adversarial AI Threat Modeling Framework
 
 A comprehensive reference for adversarial techniques (TTPs) used to test, bypass, or subvert AI safety mechanisms.
 
