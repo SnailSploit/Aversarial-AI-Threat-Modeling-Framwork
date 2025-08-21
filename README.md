@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 The **Adversarial AI Threat Modeling Framework (AATMF)** is an attacker-driven methodology for testing, measuring, and hardening **AI/LLM systems**.  
-It is the direct evolution of the [AiPTF/AATMF](https://github.com/SnailSploit/Adverserial-Ai-Framework) project, with major improvements including:
+It is the direct evolution of the [AiPTF/AATMF]([https://github.com/SnailSploit/Adverserial-Ai-Framework](https://github.com/SnailSploit/Aversarial-AI-Threat-Modeling-Framwork/blob/main/AATMF_v.1_2023.md)) project, with major improvements including:
 
 - **14 unified tactics** covering prompt injection, poisoning, RAG manipulation, agent exploitation, and more.  
 - **Quantitative risk scoring (AATMF-R)**: Likelihood × Impact × Detectability × Recoverability.  
@@ -75,7 +75,7 @@ See **CHANGELOG.md** for the complete history.
   - Red-Card evaluation system  
   - Consolidated tactics (14 categories)  
   - OWASP/NIST/MITRE crosswalks  
-- **v1.x → see [AiPTF](https://github.com/SnailSploit/Adverserial-Ai-Framework)**
+- **v1.x → see [AATMF_v.1_2023]([https://github.com/SnailSploit/Adverserial-Ai-Framework](https://github.com/SnailSploit/Aversarial-AI-Threat-Modeling-Framwork/blob/main/AATMF_v.1_2023.md))**
 
 ---
 
